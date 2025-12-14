@@ -1,12 +1,6 @@
 # k8s-devops-demo
 This project demonstrates a production-style DevOps workflow using Kubernetes, CI/CD concepts, and monitoring — built with low cost and simplicity in mind.
 
-# DevOps Kubernetes Demo Project
-
-This project demonstrates a **production-style DevOps workflow** using Kubernetes, CI/CD concepts, and monitoring — built with **low cost and simplicity** in mind.
-
-It is designed to showcase **real DevOps skills**, not just tool usage.
-
 ---
 
 ##  Project Overview
